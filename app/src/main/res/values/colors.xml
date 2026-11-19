@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_700">#087F76</color>
+    <color name="teal_500">#11A89B</color>
+    <color name="teal_100">#D9F5F0</color>
+    <color name="surface_light">#F3F6F7</color>
+    <color name="ink">#213139</color>
+    <color name="muted">#657782</color>
+    <color name="delete_red">#E14C5C</color>
+</resources>

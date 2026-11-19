@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NTBTien_2245</string>
+    <string name="action_add_student">Thêm sinh viên</string>
+    <string name="action_delete_student">Xóa sinh viên</string>
+    <string name="action_sync">Đồng bộ Cloud demo</string>
+</resources>
